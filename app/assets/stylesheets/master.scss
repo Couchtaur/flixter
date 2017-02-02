@@ -1,10 +1,11 @@
 @import "bootstrap";
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Eczar|Mountains+of+Christmas:400,700');
+@import url('https://fonts.googleapis.com/css?family=Alegreya+Sans+SC|Mountains+of+Christmas:700|Eczar|Averia+Serif+Libre|Cherry+Swash|Overlock:700');
 
 body {
   background: image_url('dark_wood.png');
   color: #E0D7DF;
-  font-family: Playfair Display, serif;
+  font-family: 'Alegreya Sans SC', sans-serif;
+  font-weight: 600;
 }
 
 .btn {
@@ -61,7 +62,7 @@ h1, h2, h3, h4, h5, h6, .navbar {
 
 .navbar-inverse a.navbar-brand  {
   color: #FFAE3D;
-  font-family: 'Mountains of Christmas', cursive;
+  font-family: 'Alegreya Sans SC', sans-serif;
   font-size: 50px;
   font-weight: 600;
 }
