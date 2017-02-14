@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'figaro'
 gem 'mini_magick'
 gem 'fog'
-gem 'figaro'
 gem 'carrierwave', '~> 1.0'
 gem 'bootstrap', '~> 4.0.0.alpha6'
 gem 'simple_form'
