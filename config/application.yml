@@ -1,6 +1,6 @@
 # Add configuration values here, as shown below.
-AWS_ACCESS_KEY: AKIAJUJVKOHSGKSWOOQ
-AWS_SECRET_KEY: Ji/5s+2kCaiScEb+j8eFCXXT0JIf+2KQ6lSt6c77
+AWS_ACCESS_KEY: "AKIAJXA6V6XZIUZ3U64A"
+AWS_SECRET_KEY: "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"
 AWS_BUCKET:     couchtaur-flixter
 # pusher_app_id: "2954"
 # pusher_key: 7381a978f7dd7f9a1117
