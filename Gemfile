@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 
+gem 'font-awesome-rails'
 gem 'jquery-ui-rails'
 gem 'ranked-model'
 gem 'figaro'
